@@ -1,0 +1,12 @@
+
+Analise:
+- Onde há risco de erro ou retrabalho?
+- Que perguntas deveriam ser feitas aos stakeholders na fase de discovery com o resultado das etapas 1 e 2?
+- cruze as inconsistências encontradas com as práticas informais/formais do FAQ.
+
+Saída:
+- Lista de inconsistências validadas
+- Lista de práticas informais críticas
+- Liste as práticas do FAQ que estão de acordo com o que foi retorndado nas etapas 1 e 2
+- Recomendações para discovery
+

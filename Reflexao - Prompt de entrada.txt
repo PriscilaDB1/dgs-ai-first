@@ -1,0 +1,19 @@
+Sou um especialista de produto de uma empresa de desenvolvimento de software e a empresa está com um novo cliente que contratou a DB1 para criar um assistente de IA integrado ao Teams e SharePoint para fornecer respostas rápidas e confiáveis com base na documentação oficial. Hoje os atendentes do cliente perdem tempo buscando informações em mais de uma fonte.
+
+Antes de iniciar os processos de discovery, quero fazer um resumo dos documentos disponibilizados para eu entender de forma resumida o cliente. 
+
+
+
+IMPORTANTE:
+
+- Não assuma nada além do que foi informado
+- Trabalhe com hipóteses, não conclusões definitivas
+
+
+
+Gere:
+
+- Lista de temas principais
+- Possíveis gaps
+- Hipóteses de risco
+- Cruze as informações dos arquivos e liste possíveis inocnsistências

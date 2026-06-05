@@ -1,0 +1,7 @@
+Com base na análise anterior, vamos aprofundar nos documentos mais contraditórios. Quando eu estiver com os stakeholders vou apresentar essa análise.
+
+Saída:
+- Listar conflitos, ambiguidades.
+- Listar as inconsistências entre os documentos.
+- Qual documento tem o cálculo correto?
+- Faça um simulador simples com o cálculo correto.
