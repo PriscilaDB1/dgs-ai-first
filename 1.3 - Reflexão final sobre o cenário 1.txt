@@ -1,0 +1,5 @@
+Se eu tivesse iniciado o processo de forma independente, provavelmente começaria entendendo melhor o dia a dia dos atendentes, identificando as principais demandas e perguntas recorrentes, antes de aprofundar na análise de documentos e versões.
+Com base nessas demandas, eu avaliaria quais habilidades o assistente precisaria para responder com mais rapidez e precisão, direcionando melhor a construção da solução.
+Outro ponto importante seria o uso de prototipação no processo de discovery. Hoje, com o apoio da IA e ferramentas modernas, é possível testar hipóteses, validar entradas e saídas e experimentar cenários de forma muito mais rápida. Isso permite errar mais cedo, aprender mais rápido e reduzir riscos antes do desenvolvimento.
+Em paralelo, eu também estruturaria a padronização da base de conhecimento, com definição clara de responsabilidades para criação e atualização dos documentos.
+De forma geral, gostei bastante dos exercícios. Achei especialmente interessante a abordagem do Cláudio ao revisar e ajustar os documentos diretamente, de forma prática e eficiente.
