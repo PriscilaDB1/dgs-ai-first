@@ -1,0 +1,29 @@
+Analisar a consistência entre:
+- Protótipos de interface (anexo)
+- Documentação (anexo)
+
+Analise os protótipos e liste em formato de tabela
+## 1. Ambiguidades entre protótipo e requisitos
+Identifique pontos onde:
+- O comportamento não está claramente definido
+- O protótipo permite múltiplas interpretações
+- Existe falta de alinhamento entre o que o protótipo mostra e o que os requisitos descrevem
+---
+## 2. Termos inconsistentes com a documentação do domínio
+Liste termos usados nos protótipos que:
+- Não existem na linguagem ubíqua
+- Estão incorretos ou distorcidos em relação à definição oficial
+- Entram em conflito com documentos normativos (POL, PROC, SLA)
+Para cada termo:
+- Apresente o termo usado no protótipo
+- Explique o problema
+- Indique o termo correto (quando aplicável)
+---
+## 3. Requisitos não atendidos pelo protótipo
+Identifique requisitos que:
+- Não estão representados no protótipo
+- Estão parcialmente implementados
+- Estão implementados de forma incorreta
+
+# ✅ Critério de qualidade esperado
+- Conectar claramente protótipo ↔ requisitos ↔ documentação

@@ -1,0 +1,15 @@
+Gere o requirements.md do query endpoint seguindo a estrutura SDD. 
+
+Instruções
+- As prior decisions devem referenciar do anexo “Requisitos refinados por Claude”**
+- Os scope boundaries devem derivar do anexo Bounded-contexts
+- Não inventar decisões novas
+- Seguir rigorosamente o modelo SDD
+- Usar linguagem clara e objetiva
+- Os outcomes no requirements.md devem ser orientados a resultado do usuário, não a features técnicas.
+- Os verification criteria devem ser testáveis pelo QA.
+- Devem refletir decisões como:
+  - uso de RAG
+  - tratamento de conflitos
+  - prioridade de fontes
+  - não alucinação

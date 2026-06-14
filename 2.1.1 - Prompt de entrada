@@ -1,0 +1,29 @@
+
+// Prompt bounded contexts
+
+A partir do documento em anexo, identifique e defina os Bounded Contexts do domínio.
+Para cada Bounded Context, descreva obrigatoriamente: - Nome do contexto (Deve estar de acordo com a documentação em anexo) - Descrição do objetivo de negócio  - Escopo funcional incluindo:   - ✅ Features que estão dentro do contexto   - ❌ Features que estão fora do contexto (explicitando limites claros)
+Após listar todos os contextos, apresente uma tabela de relacionamento contendo: - Nome dos contextos - Tipo de relação (dependência, consumo de dados...) - Descrição simples e objetiva de como os contextos se integram
+Regras importantes: - Utilize linguagem clara, objetiva e sem ambiguidades - Baseie-se exclusivamente nas informações do documento fornecido - Respeite os conceitos de Domain-Driven Design (DDD) - Evite sobreposição de responsabilidades entre contextos
+Formato de saída: - Estruture toda a resposta em Markdown - Use títulos, subtítulos e listas para organização - A tabela final deve estar bem formatada e legível
+
+// Prompt termos
+
+A partir do arquivo em anexo, extraia a linguagem ubíqua do domínio de logística da NovaTech.
+
+Identifique os termos que devem ser utilizados de forma consistente por humanos e agentes, garantindo ausência de ambiguidade.  termos que precisam ser usados de forma consistente por humanos e agentes (ex: "carga perigosa" sempre significa "classes 1-6 da ANTT", "frete especial" sempre significa "acima de 500kg").
+
+Para cada termo, apresente:
+- Termo
+- Definição clara, objetiva e simples. (baseada exclusivamente no documento)
+
+Regras importantes:
+- Utilize apenas informações presentes no Anexo A
+- Priorize documentos normativos (POL, PROC, SLA) sobre o FAQ quando houver conflito
+- Garanta consistência semântica (cada termo deve ter apenas um significado)
+
+Formato de saída:
+- Estruture a resposta em Markdown
+- Apresente os termos no formato de dicionário
+- Organize em ordem alfabética ou por categoria (ex: logística, SLA, devolução)
+- Utilize uma tabela para facilitar leitura
