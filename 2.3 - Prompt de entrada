@@ -1,0 +1,59 @@
+
+
+Monte o conteúdo para a seção **"Product Rules & Guardrails"** com o seguinte conteúdo
+
+1. Regras de comportamento do assistente.
+ - Utilizar o anexo: 2.2 - GUARD-NovaTech-v1.0
+ - As regras são deve ser prescritivas (DEVE/NÃO DEVE).
+
+2. Glossário de linguagem ubíqua do domínio que os agentes precisam conhecer.
+
+ - Utilizar o anexo: 2.1.1 - Termos do domínio - Linguagem úbiqua
+ - Pegar somente os termos necessários que serão utilizados nesta documentação.
+
+3. Restrições que impactam geração de código 
+
+ - As restrições de código devem ser concretas o suficiente para influenciar o output do Copilot.
+ - Toda resposta que contenha saída estruturada deve: 
+ - Estar em JSON válido
+ - Seguir o contrato definido pelo sistema
+ 
+ 
+Formato esperado de resposta:
+{
+  "data": <conteúdo principal>,
+  "source_document": "<nome_do_documento>",
+  "error": null
+}
+
+Em caso de erro:
+{
+  "data": null,
+  "source_document": "<nome_do_documento>",
+  "error": {
+    "message": "<descrição>",
+    "type": "<tipo_do_erro>"
+  }
+}
+
+
+ - Campos obrigatórios devem sempre ser incluídos
+ - Não adicionar campos não especificados no schema
+ - Respostas devem ser determinísticas e previsíveis
+
+ - Código gerado deve:
+ - Seguir padrões definidos (ex: naming conventions, arquitetura)
+ - Não conter dependências não autorizadas
+
+ - Sempre incluir metadados de rastreabilidade quando aplicável
+
+4. Referências a documentos de spec no repositório.
+ - Utilizaro o anexo specs.7z
+ - A seção deve ter referências as specs em relação as regras e restrições
+
+
+** Instruções Gerais para montar a seção
+ - Gerar o conteúdo em Markdown
+ - O conteúdo deve ser inserido dentro da seção Product Rules & Guardrails do arquivo AGENTS.md em anexo.
+ - As demais seções do arquivo não devem ser alteradas.
+ - A seção deve ser machine-readable.
